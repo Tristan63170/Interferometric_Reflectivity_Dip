@@ -55,10 +55,6 @@ Main dependencies:
 - imageio
 - pickle
 
-## 📄 License
-
-???
-
 ## 👤 Authors
 
 - Tristan Miralles (tristan.miralles@uca.fr)  
