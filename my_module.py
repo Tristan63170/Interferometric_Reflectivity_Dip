@@ -20,7 +20,7 @@ def gauss2D(X, Y, wx, wy, x0, y0, alpha0, beta0):
         out (numpy array):  2D grid of the field (complex)
     """
     out = np.exp(-(((Y - y0) / wy) ** 2) - ((X - x0) / wx) ** 2) * np.exp(
-        -1j * (alpha0 * (X - x0) + beta0 * (Y - y0))
+        1j * (alpha0 * (X - x0) + beta0 * (Y - y0))
     )
     return out
 
