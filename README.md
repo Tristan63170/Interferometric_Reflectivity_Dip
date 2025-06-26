@@ -25,6 +25,8 @@ This study is part of an ongoing research effort, and a related scientific paper
 │   ├── full_system.ipynb             # Notebook dedicated to the experimental setup determination
 │   ├── observable_determination_and_sensitivity.ipynb  # Notebook dedicated to the sensitivity study
 │   ├── optimal_parameters_determination.ipynb          # Notebook dedicated to the optimal parameters determination
+│   ├── observable_determination_and_sensitivity_parallel.ipynb  # Notebook dedicated to the sensitivity study with multi-CPU computing (faster)
+│   ├── optimal_parameters_determination_parallel.ipynb          # Notebook dedicated to the optimal parameters determination with multi CPU-computing (faster)
 │   └── Plots/
 │       ├── pdf/                      # PDF plots
 │       └── svg/                      # SVG plots
@@ -33,6 +35,8 @@ This study is part of an ongoing research effort, and a related scientific paper
 │   ├── full_system.ipynb             # Notebook dedicated to the experimental setup determination
 │   ├── observable_determination_and_sensitivity.ipynb  # Notebook dedicated to the sensitivity study
 │   ├── optimal_parameters_determination.ipynb          # Notebook dedicated to the optimal parameters determination
+│   ├── observable_determination_and_sensitivity_parallel.ipynb  # Notebook dedicated to the sensitivity study with multi-CPU computing (faster)
+│   ├── optimal_parameters_determination_parallel.ipynb          # Notebook dedicated to the optimal parameters determination with multi CPU-computing (faster)
 │   ├── H_module.mp4                  # Animation of the field deformation in log scale
 │   ├── sqrt_H_module.mp4             # Animation of the square root of the field deformation
 │   └── Plots/
