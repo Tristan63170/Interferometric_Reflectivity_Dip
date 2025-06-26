@@ -58,6 +58,9 @@ Main dependencies:
 - jupyter  
 - imageio
 - pickle
+- joblib
+- tqdm
+- multiprocessing
 
 ## 👤 Authors
 
