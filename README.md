@@ -33,10 +33,13 @@ This study is part of an ongoing research effort, and a related scientific paper
 ├── with_water/                       # Studies and analysis with water
 │   ├── animation_generator.py        # Script to generate animations of the effect
 │   ├── full_system.ipynb             # Notebook dedicated to the experimental setup determination
+│   ├── r_expression_study.ipynb  # Notebook dedicated to the theoretical study of the reflection coefficient
+│   ├── surface_plasmon_illustration.ipynb  # Notebook dedicated to the production of 2D surface plasmon illustration
 │   ├── observable_determination_and_sensitivity.ipynb  # Notebook dedicated to the sensitivity study
 │   ├── optimal_parameters_determination.ipynb          # Notebook dedicated to the optimal parameters determination
 │   ├── observable_determination_and_sensitivity_parallel.ipynb  # Notebook dedicated to the sensitivity study with multi-CPU computing (faster)
 │   ├── optimal_parameters_determination_parallel.ipynb          # Notebook dedicated to the optimal parameters determination with multi CPU-computing (faster)
+│   ├── NL_check.ipynb  # Notebook dedicated to the study of the non locality impact and to the production of pedagogical plots about observables
 │   ├── H_module.mp4                  # Animation of the field deformation in log scale
 │   ├── sqrt_H_module.mp4             # Animation of the square root of the field deformation
 │   └── Plots/
