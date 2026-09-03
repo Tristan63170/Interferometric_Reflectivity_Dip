@@ -27,6 +27,7 @@ This study is part of an ongoing research effort, and a related scientific paper
 │   ├── optimal_parameters_determination.ipynb          # Notebook dedicated to the optimal parameters determination
 │   ├── observable_determination_and_sensitivity_parallel.ipynb  # Notebook dedicated to the sensitivity study with multi-CPU computing (faster)
 │   ├── optimal_parameters_determination_parallel.ipynb          # Notebook dedicated to the optimal parameters determination with multi CPU-computing (faster)
+│   ├── enlargement_vs_n_under_prism.ipynb             # Notebook dedicated to the plot of the enlargement vs the index under the prism
 │   └── Plots/
 │       ├── pdf/                      # PDF plots
 │       └── svg/                      # SVG plots
@@ -40,6 +41,7 @@ This study is part of an ongoing research effort, and a related scientific paper
 │   ├── observable_determination_and_sensitivity_parallel.ipynb  # Notebook dedicated to the sensitivity study with multi-CPU computing (faster)
 │   ├── optimal_parameters_determination_parallel.ipynb          # Notebook dedicated to the optimal parameters determination with multi CPU-computing (faster)
 │   ├── NL_check.ipynb  # Notebook dedicated to the study of the non locality impact and to the production of pedagogical plots about observables
+│   ├── enlargement_vs_n_under_prism.ipynb             # Notebook dedicated to the plot of the enlargement vs the index under the prism
 │   ├── H_module.mp4                  # Animation of the field deformation in log scale
 │   ├── sqrt_H_module.mp4             # Animation of the square root of the field deformation
 │   └── Plots/
