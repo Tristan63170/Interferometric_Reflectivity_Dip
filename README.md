@@ -27,7 +27,7 @@ This study is part of an ongoing research effort, and a related scientific paper
 │   ├── optimal_parameters_determination.ipynb          # Notebook dedicated to the optimal parameters determination
 │   ├── observable_determination_and_sensitivity_parallel.ipynb  # Notebook dedicated to the sensitivity study with multi-CPU computing (faster)
 │   ├── optimal_parameters_determination_parallel.ipynb          # Notebook dedicated to the optimal parameters determination with multi CPU-computing (faster)
-│   ├── enlargement_vs_n_under_prism.ipynb             # Notebook dedicated to the plot of the enlargement vs the index under the prism
+│   ├── enlargement_vs_n_under_gold.ipynb             # Notebook dedicated to the plot of the enlargement vs the index under the gold
 │   └── Plots/
 │       ├── pdf/                      # PDF plots
 │       └── svg/                      # SVG plots
@@ -41,7 +41,7 @@ This study is part of an ongoing research effort, and a related scientific paper
 │   ├── observable_determination_and_sensitivity_parallel.ipynb  # Notebook dedicated to the sensitivity study with multi-CPU computing (faster)
 │   ├── optimal_parameters_determination_parallel.ipynb          # Notebook dedicated to the optimal parameters determination with multi CPU-computing (faster)
 │   ├── NL_check.ipynb  # Notebook dedicated to the study of the non locality impact and to the production of pedagogical plots about observables
-│   ├── enlargement_vs_n_under_prism.ipynb             # Notebook dedicated to the plot of the enlargement vs the index under the prism
+│   ├── enlargement_vs_n_under_gold.ipynb             # Notebook dedicated to the plot of the enlargement vs the index under the gold
 │   ├── H_module.mp4                  # Animation of the field deformation in log scale
 │   ├── sqrt_H_module.mp4             # Animation of the square root of the field deformation
 │   └── Plots/
@@ -73,3 +73,10 @@ Main dependencies:
 - Antoine Moreau
 - Pauline Bennet
 - Denis Langevin
+
+## Citation
+
+If you use this code in your research, please cite:
+
+> Tristan Miralles. (2026). Tristan63170/Interferometric_Reflectivity_Dip: Interferometric Reflectivity Dip publication version 1 (Version v1.0.0) [Computer software]. Zenodo.
+> [![DOI](https://zenodo.org/badge/991940230.svg)](https://doi.org/10.5281/zenodo.22282166)
